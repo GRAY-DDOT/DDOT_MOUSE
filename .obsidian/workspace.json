@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#INDEX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,16 +190,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12d1fb771f5298ae",
+  "active": "e6779c521aab1426",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Ch01 List/1.1.md",
+    "Data Structures and Algorithms/Ch01 List/1.0  List_intro.md",
+    "Data Structures and Algorithms/INDEX.md",
+    "Data Structures and Algorithms/Ch00 Introduction/0.0 Introduction_intro.md",
+    "Data Structures and Algorithms/README.md",
     "Data Structures and Algorithms/Ch01 List",
     "무제 파일.canvas",
     "Data Structures and Algorithms/Ch00 Introduction/0.2 C-lang key point summary.md",
     "Data Structures and Algorithms/Ch00 Introduction/0.1 자료구조, 알고리즘.md",
     "무제 파일 1.canvas",
-    "Data Structures and Algorithms/INDEX.md",
-    "Data Structures and Algorithms/Ch00 Introduction/0.0 INDEX.md",
-    "Data Structures and Algorithms/README.md",
     "README.md",
     "Data Structures and Algorithms/Ch00 Introduction/0.3 기타 참고 사항.md",
     "Data Structures and Algorithms/Ch00 Introduction/ch00_img",
