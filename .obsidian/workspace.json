@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Data Structures and Algorithms/Ch00 Introduction/0.1 자료구조, 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6779c521aab1426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures and Algorithms/Ch00 Introduction/0.2 C-lang key point summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d1ee4bdba62d40f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures and Algorithms/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ee96227eca7e863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,14 +194,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12d1fb771f5298ae",
+  "active": "2ee96227eca7e863",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Ch00 Introduction/무제 폴더",
+    "Data Structures and Algorithms/README.md",
+    "README.md",
+    "Data Structures and Algorithms/무제 파일.md",
+    "Data Structures and Algorithms/Ch00 Introduction/0.3 기타 참고 사항.md",
+    "Data Structures and Algorithms/Ch00 Introduction/0.2 C-lang key point summary.md",
+    "Data Structures and Algorithms/Ch00 Introduction/0.1 자료구조, 알고리즘.md",
+    "Data Structures and Algorithms/Ch00 Introduction/ch00_img",
     "Data Structures and Algorithms/Ch00 Introduction",
     "Data Structures and Algorithms",
     "EX/EX.md",
     "LICENSE",
-    "README.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "EX_2",
