@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/INDEX.md",
+                "file": "Data Structures and Algorithms/Ch01 List/1.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "d4d53d3616334d5b",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/INDEX.md",
+                "file": "Data Structures and Algorithms/Ch01 List/1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/INDEX.md",
+                "file": "Data Structures and Algorithms/Ch01 List/1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/INDEX.md"
+                "file": "Data Structures and Algorithms/Ch01 List/1.1.md"
               }
             }
           },
@@ -190,27 +190,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6779c521aab1426",
+  "active": "12d1fb771f5298ae",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Ch01 List/1.1.md",
+    "무제 폴더",
+    "Data Structures and Algorithms/Ch04",
+    "Data Structures and Algorithms/Ch03",
+    "Data Structures and Algorithms/Ch02",
     "Data Structures and Algorithms/Ch01 List/1.0  List_intro.md",
-    "Data Structures and Algorithms/INDEX.md",
+    "Data Structures and Algorithms/Ch00 Introduction/0.3 기타 참고 사항.md",
+    "Data Structures and Algorithms/Ch01 List/1.1.md",
+    "Data Structures and Algorithms/0_info/README.md",
+    "Data Structures and Algorithms/0_info/INDEX of DS & AL.md",
+    "Data Structures and Algorithms/0_info",
     "Data Structures and Algorithms/Ch00 Introduction/0.0 Introduction_intro.md",
-    "Data Structures and Algorithms/README.md",
-    "Data Structures and Algorithms/Ch01 List",
-    "무제 파일.canvas",
     "Data Structures and Algorithms/Ch00 Introduction/0.2 C-lang key point summary.md",
     "Data Structures and Algorithms/Ch00 Introduction/0.1 자료구조, 알고리즘.md",
+    "Data Structures and Algorithms/Ch01 List",
+    "무제 파일.canvas",
     "무제 파일 1.canvas",
     "README.md",
-    "Data Structures and Algorithms/Ch00 Introduction/0.3 기타 참고 사항.md",
     "Data Structures and Algorithms/Ch00 Introduction/ch00_img",
     "Data Structures and Algorithms/Ch00 Introduction",
     "Data Structures and Algorithms",
     "EX/EX.md",
     "LICENSE",
     "Untitled.canvas",
-    "EX_2",
-    "EX"
+    "EX_2"
   ]
 }
