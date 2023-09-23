@@ -11,11 +11,12 @@ Last. 영어 자료를 한글로 번역할 예정은 없습니다.
 
 #  2. List of All Contents
 
-|제목|내용|설명|
-|------|---|---|
-|[[Dart & Flutter]]|테스트2|테스트3|
-|[[Data Structure and Algorithms]]|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+| 제목                          | 분류    | 태그                     |
+| ----------------------------- | ------- | ------------------------ |
+| [[Dart & Flutter]]                | 테스트2 | #Dart #Flutter #App      |
+| [[Data Structure and Algorithms]] | 테스트2 | #CS  #자료구조 #알고리즘 |
+| [[OS_EX Ubuntu]]                  | 테스트2 | #운영체제 #우분투        |
+
 
 
 

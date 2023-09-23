@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd70f81a5942a9c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures and Algorithms/Ch00 Introduction/0.1 자료구조, 알고리즘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6779c521aab1426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9308c3fb8bfc0c20",
             "type": "leaf",
             "state": {
@@ -42,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7d1ee4bdba62d40f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ee96227eca7e863",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#INDEX",
+                "query": "tag:#Dart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,12 +121,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,13 +140,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9c554b64d664e4d",
+  "active": "5127d4a8db9c1e78",
   "lastOpenFiles": [
-    "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
+    "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
     "README.md",
+    "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
     "Data Structures and Algorithms/Ch00 Introduction/0.0 Introduction_intro.md",
     "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
-    "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
     "WEB Programming(HTML5, CSS, JS)/Ch00",
     "OS_EX Ubuntu/Ch00",
     "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
