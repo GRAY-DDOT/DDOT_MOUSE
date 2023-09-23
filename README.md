@@ -1,2 +1,3 @@
 # DDOT_MOUSE
- DDOT's Obsidian Notes
+This is DDOT's Obsidian Notes 
+

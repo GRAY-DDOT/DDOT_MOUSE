@@ -11,8 +11,12 @@
             "id": "fd70f81a5942a9c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -151,9 +159,12 @@
   },
   "active": "12d1fb771f5298ae",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Ch00 Introduction/무제 폴더",
+    "Data Structures and Algorithms/Ch00 Introduction",
+    "Data Structures and Algorithms",
+    "EX/EX.md",
     "LICENSE",
     "README.md",
-    "EX/EX.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "EX_2",
