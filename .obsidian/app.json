@@ -1,4 +1,5 @@
 {
   "trashOption": "local",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Data Structures and Algorithms/Ch00 Introduction/ch00_img"
 }

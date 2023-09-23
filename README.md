@@ -8,3 +8,6 @@
 4. Basically, I have intellectual property rights to the entire data in the repository, and opinions and criticism are freely available through email.
 
 Last. 영어 자료를 한글로 번역할 예정은 없습니다.
+
+
+[[0.0 Introduction_intro]]
