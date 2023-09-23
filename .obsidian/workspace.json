@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,26 +163,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "7946df76a3bdfe31",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "무제 파일.md"
-              }
-            }
-          },
-          {
-            "id": "94054b25954e41ff",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,21 +185,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9308c3fb8bfc0c20",
+  "active": "b9c554b64d664e4d",
   "lastOpenFiles": [
-    "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
-    "무제 파일.md",
-    "WEB Programming(HTML5, CSS, JS)/Ch00",
     "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
+    "README.md",
+    "Data Structures and Algorithms/Ch00 Introduction/0.0 Introduction_intro.md",
+    "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
+    "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
+    "WEB Programming(HTML5, CSS, JS)/Ch00",
     "OS_EX Ubuntu/Ch00",
     "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
     "Data Structures and Algorithms/Ch04/4.0.md",
-    "Data Structures and Algorithms/Ch00 Introduction/0.0 Introduction_intro.md",
     "Data Structures and Algorithms/Ch03/3.0.md",
     "Data Structures and Algorithms/Ch02/2.0.md",
     "Data Structures and Algorithms/z_attached file",
     "Data Structures and Algorithms/무제 파일.md",
-    "README.md",
     "Data Structures and Algorithms/Ch01 List/1.1.md",
     "Dart & Flutter/Part00 Intro",
     "Dart & Flutter/Part02 Flutter/무제 폴더 1",
