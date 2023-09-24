@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9308c3fb8bfc0c20",
+            "id": "4458a5370313e970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76fe8e2137fb4b02",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "706e36a33bc5a2d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dart",
+                "query": "tag:#Flutter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md"
               }
             }
           }
@@ -190,14 +168,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "706e36a33bc5a2d6",
+  "active": "4458a5370313e970",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Ch01 List/1.0  List_intro.md",
-    "README.md",
     "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
+    "README.md",
+    "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
+    "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
+    "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
+    "conflict-files-obsidian-git.md",
     "WEB Programming(HTML5, CSS, JS)/Ch00",
     "WEB Programming(HTML5, CSS, JS)",
-    "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
     "OS_EX Ubuntu/Ch00",
     "OS_EX Ubuntu",
     "Data Structures and Algorithms/Ch04/4.0.md",
@@ -207,6 +187,7 @@
     "Data Structures and Algorithms/Ch02/2.0.md",
     "Data Structures and Algorithms/Ch02",
     "Data Structures and Algorithms/Ch01 List/1.1.md",
+    "Data Structures and Algorithms/Ch01 List/1.0  List_intro.md",
     "Data Structures and Algorithms/Ch01 List",
     "Data Structures and Algorithms/Ch00 Introduction/0.3 기타 참고 사항.md",
     "Data Structures and Algorithms/Ch00 Introduction/0.2 C-lang key point summary.md",
@@ -214,10 +195,7 @@
     "Data Structures and Algorithms/Ch00 Introduction/0.0 Introduction_intro.md",
     "Data Structures and Algorithms/Ch00 Introduction",
     "Data Structures and Algorithms/0_info/README.md",
-    "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
     "Data Structures and Algorithms/0_info",
-    "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
-    "conflict-files-obsidian-git.md",
     "무제 파일.canvas",
     "Data Structures and Algorithms/무제 파일.md",
     "무제 파일 1.canvas",
