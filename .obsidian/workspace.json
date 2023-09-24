@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,13 +139,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5127d4a8db9c1e78",
+  "active": "9308c3fb8bfc0c20",
   "lastOpenFiles": [
-    "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
+    "무제 파일.canvas",
     "README.md",
+    "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
+    "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
     "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
     "Data Structures and Algorithms/Ch00 Introduction/0.0 Introduction_intro.md",
-    "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
     "WEB Programming(HTML5, CSS, JS)/Ch00",
     "OS_EX Ubuntu/Ch00",
     "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
@@ -168,7 +168,6 @@
     "Data Structures and Algorithms/0_info/README.md",
     "Data Structures and Algorithms/Ch00 Introduction/0.2 C-lang key point summary.md",
     "Data Structures and Algorithms/Ch00 Introduction/0.1 자료구조, 알고리즘.md",
-    "무제 파일.canvas",
     "무제 파일 1.canvas",
     "EX/EX.md",
     "Untitled.canvas"

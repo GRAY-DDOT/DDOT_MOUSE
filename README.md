@@ -11,12 +11,13 @@ Last. 영어 자료를 한글로 번역할 예정은 없습니다.
 
 #  2. List of All Contents
 
-| 제목                          | 분류    | 태그                     |
-| ----------------------------- | ------- | ------------------------ |
-| [[Dart & Flutter]]                | 테스트2 | #Dart #Flutter #App      |
-| [[Data Structure and Algorithms]] | 테스트2 | #CS  #자료구조 #알고리즘 |
-| [[OS_EX Ubuntu]]                  | 테스트2 | #운영체제 #우분투        |
+| 제목                                  | 분류                        | 태그                      |
+| --------------------------------------| --------------------------- | ------------------------- |
+| [[Dart & Flutter]]                        | 프폰트엔드, 풀스텍          | #Dart #Flutter #App #FE      |
+| [[Data Structure and Algorithms]]         | CS 기초 | #CS  #자료구조 #알고리즘  |
+| [[OS_EX Ubuntu]]                          | 리눅스 우분투 실습          | #운영체제 #우분투 #리눅스 |
+|[[WEB Programming(HTML5, CSS, JS)]]        |                             |                           |
 
 
-
+# 3. 
 
