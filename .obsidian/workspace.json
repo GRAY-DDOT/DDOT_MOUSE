@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "01c9fca791a55445",
+        "id": "18f35b3c2eeac964",
         "type": "tabs",
         "children": [
           {
-            "id": "4458a5370313e970",
+            "id": "f358e30c832faf8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,19 +156,17 @@
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zk-prefixer:새로운 유니크 노트 생성": false,
+      "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "4458a5370313e970",
+  "active": "12d1fb771f5298ae",
   "lastOpenFiles": [
     "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
-    "README.md",
-    "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
-    "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
-    "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
-    "conflict-files-obsidian-git.md",
     "WEB Programming(HTML5, CSS, JS)/Ch00",
     "WEB Programming(HTML5, CSS, JS)",
+    "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
     "OS_EX Ubuntu/Ch00",
     "OS_EX Ubuntu",
     "Data Structures and Algorithms/Ch04/4.0.md",
@@ -195,11 +184,15 @@
     "Data Structures and Algorithms/Ch00 Introduction/0.0 Introduction_intro.md",
     "Data Structures and Algorithms/Ch00 Introduction",
     "Data Structures and Algorithms/0_info/README.md",
+    "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
     "Data Structures and Algorithms/0_info",
+    "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
+    "conflict-files-obsidian-git.md",
+    "EX/EX.md",
+    "README.md",
     "무제 파일.canvas",
     "Data Structures and Algorithms/무제 파일.md",
     "무제 파일 1.canvas",
-    "EX/EX.md",
     "Untitled.canvas"
   ]
 }
