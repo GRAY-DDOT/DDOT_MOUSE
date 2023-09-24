@@ -11,8 +11,12 @@
             "id": "f358e30c832faf8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md"
+              }
             }
           }
         ],
@@ -161,7 +169,7 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "12d1fb771f5298ae",
+  "active": "f358e30c832faf8d",
   "lastOpenFiles": [
     "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
     "WEB Programming(HTML5, CSS, JS)/Ch00",
@@ -175,8 +183,8 @@
     "Data Structures and Algorithms/Ch03",
     "Data Structures and Algorithms/Ch02/2.0.md",
     "Data Structures and Algorithms/Ch02",
-    "Data Structures and Algorithms/Ch01 List/1.1.md",
     "Data Structures and Algorithms/Ch01 List/1.0  List_intro.md",
+    "Data Structures and Algorithms/Ch01 List/1.1.md",
     "Data Structures and Algorithms/Ch01 List",
     "Data Structures and Algorithms/Ch00 Introduction/0.3 기타 참고 사항.md",
     "Data Structures and Algorithms/Ch00 Introduction/0.2 C-lang key point summary.md",
