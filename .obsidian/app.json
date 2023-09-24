@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Data Structures and Algorithms/Ch00 Introduction/ch00_img"
+  "attachmentFolderPath": "Data Structures and Algorithms/Ch00 Introduction/ch00_img",
+  "vimMode": true
 }
