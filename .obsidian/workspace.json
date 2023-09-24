@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9d6ddaf605e0d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -169,9 +182,10 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "f358e30c832faf8d",
+  "active": "c9d6ddaf605e0d5b",
   "lastOpenFiles": [
     "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
+    "conflict-files-obsidian-git.md",
     "WEB Programming(HTML5, CSS, JS)/Ch00",
     "WEB Programming(HTML5, CSS, JS)",
     "OS_EX Ubuntu/Ch00/OS_EX Ubuntu.md",
@@ -195,7 +209,6 @@
     "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
     "Data Structures and Algorithms/0_info",
     "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
-    "conflict-files-obsidian-git.md",
     "EX/EX.md",
     "README.md",
     "무제 파일.canvas",
