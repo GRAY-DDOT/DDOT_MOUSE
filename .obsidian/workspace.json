@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "f249cb362814ccea",
+    "id": "87f26edfde7af7ca",
     "type": "split",
     "children": [
       {
-        "id": "18f35b3c2eeac964",
+        "id": "0065a6626a184ec1",
         "type": "tabs",
         "children": [
           {
-            "id": "f358e30c832faf8d",
+            "id": "c471e8c874f2adaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures and Algorithms/Ch04/DSAL 4.0.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5241506b6cf233db",
+    "id": "b4ece4d60cb302d9",
     "type": "split",
     "children": [
       {
-        "id": "917a43cd336f52a6",
+        "id": "1f5a35c61be7af8b",
         "type": "tabs",
         "children": [
           {
-            "id": "12d1fb771f5298ae",
+            "id": "a58da97d0a12b4b8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +39,12 @@
             }
           },
           {
-            "id": "5127d4a8db9c1e78",
+            "id": "0b7195ad692a1a57",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Flutter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "20f982df20eb9cb2",
+            "id": "0a0df47d65aec162",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 300
   },
   "right": {
-    "id": "d4d53d3616334d5b",
+    "id": "ecc2dc4c08d4d378",
     "type": "split",
     "children": [
       {
-        "id": "93346024b08b2a60",
+        "id": "758303c0594dbd6b",
         "type": "tabs",
         "children": [
           {
-            "id": "3731990f783c94c2",
+            "id": "f6248531a9749f10",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Ch04/DSAL 4.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "fe5a1030ed8608fb",
+            "id": "403bbbe5d470ee24",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Ch04/DSAL 4.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b9c554b64d664e4d",
+            "id": "28b0f659a2c3a9b4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +114,15 @@
             }
           },
           {
-            "id": "7181ba03722a0ab3",
+            "id": "53fed74c6860d6ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c9eed23236cc864",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -128,7 +130,7 @@
             }
           },
           {
-            "id": "0f9d5ac9538324f5",
+            "id": "b5a2e2de5b217e00",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -136,19 +138,8 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "180617d42b31b232",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Data Structures and Algorithms/Ch04/DSAL 4.0.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,53 +148,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "zk-prefixer:새로운 유니크 노트 생성": false,
-      "workspaces:작업 공간 레이아웃 관리": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "12d1fb771f5298ae",
-  "lastOpenFiles": [
-    "DEV_FE",
-    "DEV_BE",
-    "Programming Lag/Kotlin",
-    "Programming Lag/JAVA",
-    "Programming Lag",
-    "Programming Lag/Python",
-    "Programming Lag/C_Lang",
-    "_Daily/무제 폴더",
-    "_Daily",
-    "_TMP",
-    "Data Structures and Algorithms/_TMP",
-    "Data Structures and Algorithms/Ch03/DSAL 3.0.md",
-    "Data Structures and Algorithms/Ch02/DSAL 2.0.md",
-    "Data Structures and Algorithms/Ch01 List/DSAL 1.1.md",
-    "Data Structures and Algorithms/Ch01 List/DSAL 1.0  List_intro.md",
-    "Data Structures and Algorithms/Ch00 Introduction/DSAL 0.3 기타 참고 사항.md",
-    "Data Structures and Algorithms/Ch00 Introduction/DSAL 0.2 C-lang key point summary.md",
-    "Data Structures and Algorithms/Ch00 Introduction/DSAL 0.1 자료구조, 알고리즘.md",
-    "Data Structures and Algorithms/Ch00 Introduction/DSAL 0.0 Introduction_intro.md",
-    "OS_Ubuntu/Ch00/OS_Ubuntu.md",
-    "Data Structures and Algorithms/Ch04/DSAL 4.0.md",
-    "Data Structures and Algorithms/0_info/README(Data Structure and Algorithms).md",
-    "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
-    "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
-    "README.md",
-    "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
-    "conflict-files-obsidian-git.md",
-    "EX/EX.md",
-    "무제 파일.canvas",
-    "Data Structures and Algorithms/무제 파일.md",
-    "무제 파일 1.canvas",
-    "Untitled.canvas"
-  ]
+  "active": "c471e8c874f2adaf",
+  "lastOpenFiles": []
 }
