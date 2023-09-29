@@ -1,4 +1,5 @@
 # Notice
 This folder is a personal study record or content about data structures and algorithms implemented in c language.
 
-# [[Data Structure and Algorithms]]
+# [[DSAL 0_intro]]
+****
