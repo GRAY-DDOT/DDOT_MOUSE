@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "56d6429c38b64017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.0 Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,16 +179,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "56d6429c38b64017",
+  "active": "04cc1c9f643dabd8",
   "lastOpenFiles": [
+    "Data Structures and Algorithms(DSAL)/DSAL 04/DSAL 04.0.md",
+    "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.0 Intro.md",
+    "Data Structures and Algorithms(DSAL)/DSAL 01 List/DSAL 01.0  List_intro.md",
+    "Data Structures and Algorithms(DSAL)/DSAL 01 List/DSAL 01.1.md",
     "conflict-files-obsidian-git.md",
     "Data Structures and Algorithms(DSAL)/DSAL 02/DSAL 02.0.md",
-    "Data Structures and Algorithms(DSAL)/DSAL 01 List/DSAL 01.1.md",
-    "Data Structures and Algorithms(DSAL)/DSAL 01 List/DSAL 01.0  List_intro.md",
     "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.1 자료구조, 알고리즘.md",
-    "Data Structures and Algorithms(DSAL)/DSAL 04/DSAL 04.0.md",
     "Data Structures and Algorithms(DSAL)/DSAL 03/DSAL 03.0.md",
-    "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.0 Intro.md",
     "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.3 기타 참고 사항.md",
     "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/README(Data Structure and Algorithms).md",
     "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.2 C-lang key point summary.md",
