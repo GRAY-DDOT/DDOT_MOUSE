@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Ch04/DSAL 4.0.md",
+                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Ch04/DSAL 4.0.md",
+                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Ch04/DSAL 4.0.md",
+                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Ch04/DSAL 4.0.md"
+                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md"
               }
             }
           }
@@ -171,8 +171,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "12d1fb771f5298ae",
+  "active": "f358e30c832faf8d",
   "lastOpenFiles": [
+    "README.md",
+    "Data Structures and Algorithms/Ch04/DSAL 4.0.md",
     "DEV_FE",
     "DEV_BE",
     "Programming Lag/Kotlin",
@@ -183,7 +185,6 @@
     "_Daily/무제 폴더",
     "_Daily",
     "_TMP",
-    "Data Structures and Algorithms/_TMP",
     "Data Structures and Algorithms/Ch03/DSAL 3.0.md",
     "Data Structures and Algorithms/Ch02/DSAL 2.0.md",
     "Data Structures and Algorithms/Ch01 List/DSAL 1.1.md",
@@ -193,11 +194,9 @@
     "Data Structures and Algorithms/Ch00 Introduction/DSAL 0.1 자료구조, 알고리즘.md",
     "Data Structures and Algorithms/Ch00 Introduction/DSAL 0.0 Introduction_intro.md",
     "OS_Ubuntu/Ch00/OS_Ubuntu.md",
-    "Data Structures and Algorithms/Ch04/DSAL 4.0.md",
     "Data Structures and Algorithms/0_info/README(Data Structure and Algorithms).md",
     "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
     "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
-    "README.md",
     "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
     "conflict-files-obsidian-git.md",
     "EX/EX.md",
