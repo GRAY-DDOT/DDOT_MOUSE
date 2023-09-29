@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "18f35b3c2eeac964",
+        "id": "e6f4675fc60a2ab9",
         "type": "tabs",
         "children": [
           {
-            "id": "f358e30c832faf8d",
+            "id": "04cc1c9f643dabd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
+                "file": "Data Structures and Algorithms(DSAL)/DSAL Ch00 Introduction/DSAL 0_intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56d6429c38b64017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Flutter",
+                "query": "tag:#DSAL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +156,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md"
+                "file": "conflict-files-obsidian-git.md"
               }
+            }
+          },
+          {
+            "id": "8c9329ea236ed56e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +191,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f358e30c832faf8d",
+  "active": "56d6429c38b64017",
   "lastOpenFiles": [
+    "Data Structures and Algorithms(DSAL)/DSAL Ch00 Introduction/DSAL 0_intro.md",
+    "conflict-files-obsidian-git.md",
+    "Data Structures and Algorithms(DSAL)/DSAL Ch00 Introduction/DSAL 0.1 자료구조, 알고리즘.md",
+    "DSAL 00.1 자료구조, 알고리즘.md",
+    "DSAL 0.0 Introduction_intro.md",
+    "DSAL 0.0  Introduction_intro.md",
+    "DSAL 01  List_intro.md",
+    "Data Structures and Algorithms(DSAL)/DSAL Ch00 Introduction/README(Data Structure and Algorithms).md",
+    "Data Structures and Algorithms(DSAL)/DSAL Ch00 Introduction/DSAL 0.0 Introduction_intro.md",
     "README.md",
-    "Data Structures and Algorithms/Ch04/DSAL 4.0.md",
+    "Data Structures and Algorithms(DSAL)/DSAL Ch04/DSAL 4.0.md",
     "DEV_FE",
     "DEV_BE",
     "Programming Lag/Kotlin",
@@ -185,20 +214,15 @@
     "_Daily/무제 폴더",
     "_Daily",
     "_TMP",
-    "Data Structures and Algorithms/Ch03/DSAL 3.0.md",
-    "Data Structures and Algorithms/Ch02/DSAL 2.0.md",
-    "Data Structures and Algorithms/Ch01 List/DSAL 1.1.md",
-    "Data Structures and Algorithms/Ch01 List/DSAL 1.0  List_intro.md",
-    "Data Structures and Algorithms/Ch00 Introduction/DSAL 0.3 기타 참고 사항.md",
-    "Data Structures and Algorithms/Ch00 Introduction/DSAL 0.2 C-lang key point summary.md",
-    "Data Structures and Algorithms/Ch00 Introduction/DSAL 0.1 자료구조, 알고리즘.md",
-    "Data Structures and Algorithms/Ch00 Introduction/DSAL 0.0 Introduction_intro.md",
+    "Data Structures and Algorithms(DSAL)/DSAL Ch03/DSAL 3.0.md",
+    "Data Structures and Algorithms(DSAL)/DSAL Ch02/DSAL 2.0.md",
+    "Data Structures and Algorithms(DSAL)/DSAL Ch01 List/DSAL 1.1.md",
+    "Data Structures and Algorithms(DSAL)/DSAL Ch01 List/DSAL 1.0  List_intro.md",
+    "Data Structures and Algorithms(DSAL)/DSAL Ch00 Introduction/DSAL 0.3 기타 참고 사항.md",
+    "Data Structures and Algorithms(DSAL)/DSAL Ch00 Introduction/DSAL 0.2 C-lang key point summary.md",
     "OS_Ubuntu/Ch00/OS_Ubuntu.md",
-    "Data Structures and Algorithms/0_info/README(Data Structure and Algorithms).md",
-    "Dart & Flutter/Part00 Intro/Dart & Flutter.md",
-    "Data Structures and Algorithms/0_info/Data Structure and Algorithms.md",
+    "Dart & Flutter(D&F)/D&F Part00 Intro/Dart & Flutter.md",
     "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
-    "conflict-files-obsidian-git.md",
     "EX/EX.md",
     "무제 파일.canvas",
     "Data Structures and Algorithms/무제 파일.md",
