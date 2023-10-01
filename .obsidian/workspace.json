@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6f4675fc60a2ab9",
+        "id": "23ce0e68c1b34c45",
         "type": "tabs",
         "children": [
           {
-            "id": "33c426533bdf5d51",
+            "id": "1b694bc9cba5deb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,10 +179,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "33c426533bdf5d51",
+  "active": "1b694bc9cba5deb4",
   "lastOpenFiles": [
-    "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.1 자료구조, 알고리즘.md",
+    "url.md",
     "Obsidian/Obsidan 01 마크다운 문법.md",
+    "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.1 자료구조, 알고리즘.md",
     "Obsidian",
     "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.0 Intro.md",
     "Git/Github Desktop.md",
@@ -217,7 +218,6 @@
     "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
     "EX/EX.md",
     "무제 파일.canvas",
-    "Data Structures and Algorithms/무제 파일.md",
     "무제 파일 1.canvas",
     "Untitled.canvas"
   ]

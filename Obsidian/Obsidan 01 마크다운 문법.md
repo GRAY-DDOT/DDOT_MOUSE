@@ -40,12 +40,32 @@
 
 # 텍스트 스타일
 |Style|Syntax|Example|Output|
-|----|-------|-----|--------|
-|Bold|`** **` or `__ __`|`**Bold text**`|**Bold text**|
-|Italic|`* *` or `_ _`|`*Italic text*`|_Italic text_|
-|Strikethrough|`~~ ~~`|`~~Striked out text~~`|~~Striked out text~~|
-|Highlight|==예시 불가==|==코드 오류 생김== | ==Highlighted text== |
-|Bold and nested italic|`** **` and `_ _`|`**Bold text and _nested italic_ text**`|**Bold text and _nested italic_ text**|
-|Bold and italic|`*** ***` or `___ ___`|`***Bold and italic text***`|**_Bold and italic text_**|
+|-----|-------|-----|--------|
+|Bold(굵게)|`** **` or `__ __`|`**Bold text**`|**Bold text**|
+|Italic<br>(이테릭, 기울임)|`* *` or `_ _`|`*Italic text*`|_Italic text_|
+|Strikethrough<br>(취소선)|`~~ ~~`|`~~Striked out text~~`|~~Striked out text~~|
+|Highlight(강조)|==예시 불가==|==코드 오류 생김== | ==Highlighted text== |
+|Bold and nested italic<br>(굵게, 일부 기울임)|`** **` and `_ _`|`**Bold text and _nested italic_ text**`|**Bold text and _nested italic_ text**|
+|Bold and italic<br>(전부 굵고 기울임)|`*** ***` or `___ ___`|`***Bold and italic text***`|**_Bold and italic text_**|
 
-## Quotes
+# 인용(Quote), 들여쓰기
+
+> 인용하는 말.
+
+\- 출처
+
+비슷한 기능 [[콜아웃]]
+
+# 코드 표시
+
+`인라인 코드`
+
+``` 언어/형식 이름
+
+
+코드내용
+```
+
+
+# 외부 링크
+[이름](url)
