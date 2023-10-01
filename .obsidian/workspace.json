@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidan 01 마크다운 문법.md",
+                "file": "Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidan 01 마크다운 문법.md",
+                "file": "Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Obsidan 01 마크다운 문법.md",
+                "file": "Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Obsidan 01 마크다운 문법.md"
+                "file": "Git/Git.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "1b694bc9cba5deb4",
   "lastOpenFiles": [
-    "url.md",
     "Obsidian/Obsidan 01 마크다운 문법.md",
+    "url.md",
     "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.1 자료구조, 알고리즘.md",
     "Obsidian",
     "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.0 Intro.md",
