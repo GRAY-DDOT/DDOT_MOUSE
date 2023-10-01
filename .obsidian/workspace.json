@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04cc1c9f643dabd8",
+            "id": "33c426533bdf5d51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms(DSAL)/DSAL 04/DSAL 04.0.md",
+                "file": "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.1 자료구조, 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms(DSAL)/DSAL 04/DSAL 04.0.md",
+                "file": "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.1 자료구조, 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms(DSAL)/DSAL 04/DSAL 04.0.md",
+                "file": "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.1 자료구조, 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms(DSAL)/DSAL 04/DSAL 04.0.md"
+                "file": "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.1 자료구조, 알고리즘.md"
               }
             }
           },
@@ -179,12 +179,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "04cc1c9f643dabd8",
+  "active": "33c426533bdf5d51",
   "lastOpenFiles": [
+    "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.0 Intro.md",
+    "Git/Github Desktop.md",
+    "Git/Github.md",
+    "Git/Git.md",
+    "Git",
     "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.3 기타 참고 사항.md",
     "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.2 C-lang key point summary.md",
     "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.1 자료구조, 알고리즘.md",
-    "Data Structures and Algorithms(DSAL)/DSAL 00 Introduction/DSAL 00.0 Intro.md",
     "Data Structures and Algorithms(DSAL)/DSAL 01 List/DSAL 01.0  List_intro.md",
     "Data Structures and Algorithms(DSAL)/DSAL 04/DSAL 04.0.md",
     "Data Structures and Algorithms(DSAL)/DSAL 01 List/DSAL 01.1.md",
@@ -207,7 +211,6 @@
     "Programming Lag/C_Lang",
     "_Daily/무제 폴더",
     "_Daily",
-    "_TMP",
     "OS_Ubuntu/Ch00/OS_Ubuntu.md",
     "Dart & Flutter(D&F)/D&F Part00 Intro/Dart & Flutter.md",
     "WEB Programming(HTML5, CSS, JS)/Ch00/WEB Programming(HTML5, CSS, JS).md",
