@@ -68,4 +68,25 @@
 
 
 # 외부 링크
-[이름](url)
+`[이름](url)`
+
+
+# 외부 이미지
+`![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)`
+![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+크기 조절 가능
+`![Engelbart|100x145](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)`
+![Engelbart|100x145](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
+# 순서 없는 리스트(글머리)
+- `-, +, *` 중에서 1택
+- 이렇게 표시
+
+
+# 순서 있는 리스트(숫자)
+1. 숫자 뒤에 점'.' 붙이면 순서 있는 리스트
+
+
+# 할일(Task)
+- [x] 다 한 일 ✅ 2023-10-01
+- [ ] 다 못한 일 task.
