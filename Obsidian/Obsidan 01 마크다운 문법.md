@@ -89,4 +89,37 @@
 
 # 할일(Task)
 - [x] 다 한 일 ✅ 2023-10-01
-- [ ] 다 못한 일 task.
+- [ ] 다 못한 일  
+
+
+# 수평선
+*, -, _ 연달아 3개 쓰면  수평선
+`*** **** * * * --- ---- ___ ____ _ _ _`
+*** 
+****
+* * *
+---
+----
+___
+____
+_ _ _
+
+# 주석(footnote)
+This is a simple footnote[^1]. 
+
+[^1]:  This is the referenced text.
+[^2]:  Add 2 spaces at the start of each new line. This lets you write footnotes that span multiple lines.
+[^note]: Named footnotes still appear as numbers, but can make it easier to identify and link references.
+
+You can also use inline footnotes. ^[This is an inline footnote.]
+
+
+# 코멘트
+This is an %%inline%% comment. 
+%% 
+This is a block comment. 
+Block comments can span multiple lines.
+%%
+
+아래 내용 여기부터 추가
+https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax
