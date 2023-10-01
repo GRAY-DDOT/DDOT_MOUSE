@@ -27,13 +27,25 @@
 문단1
 
 
-문단2 그냥 엔터
+문단2 그냥 줄바꿈
 
 문단1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `&nbsp;`공백
-문단1
+문단1<br>
+<br>
+문단2  `<br>`줄 바꿈
 
 
-문단2 ``<br>`` 엔터
 
 
 
+# 텍스트 스타일
+|Style|Syntax|Example|Output|
+|---|---|---|---|
+|Bold|`** **` or `__ __`|`**Bold text**`|**Bold text**|
+|Italic|`* *` or `_ _`|`*Italic text*`|_Italic text_|
+|Strikethrough|`~~ ~~`|`~~Striked out text~~`|~~Striked out text~~|
+|Highlight|`== ==`|`==Highlighted text==`| ==Highlighted text== |
+|Bold and nested italic|`** **` and `_ _`|`**Bold text and _nested italic_ text**`|**Bold text and _nested italic_ text**|
+|Bold and italic|`*** ***` or `___ ___`|`***Bold and italic text***`|**_Bold and italic text_**|
+
+## Quotes
