@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9f60b3d6871c336",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -182,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dff26a87ecc9f7f1",
+  "active": "a9f60b3d6871c336",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "week07_헬스케어, AI.md",
