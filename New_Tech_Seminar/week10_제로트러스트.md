@@ -16,5 +16,11 @@ EDR
 
 NIST-SP-800-207
 
+룰베이스드 제로트러스트
++a 실시간으로 룰이 변경(동적) => 제로트러스트
 
+policy engine
+ploicy admin
+policy enforcment poit
+trust algorithm
 
