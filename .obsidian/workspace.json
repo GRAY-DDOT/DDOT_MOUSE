@@ -25,34 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week07_헬스케어, AI.md",
+                "file": "New_Tech_Seminar/week07_헬스케어, AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a9f60b3d6871c336",
+            "id": "e346ac620962cfa3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "f0e29f9589991e93",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
+                "file": "New_Tech_Seminar/week10_제로트러스트.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week07_헬스케어, AI.md",
+                "file": "New_Tech_Seminar/week10_제로트러스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week07_헬스케어, AI.md",
+                "file": "New_Tech_Seminar/week10_제로트러스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week07_헬스케어, AI.md"
+                "file": "New_Tech_Seminar/week10_제로트러스트.md"
               }
             }
           },
@@ -203,12 +195,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0e29f9589991e93",
+  "active": "e346ac620962cfa3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "week07_헬스케어, AI.md",
-    "New_Tech_Seminar",
     "README.md",
+    "New_Tech_Seminar/week10_제로트러스트.md",
+    "conflict-files-obsidian-git.md",
+    "New_Tech_Seminar/week07_헬스케어, AI.md",
+    "New_Tech_Seminar",
     "Obsidian/Obsidan 01 마크다운 문법.md",
     "Obsidian",
     "Git/Github Desktop.md",
