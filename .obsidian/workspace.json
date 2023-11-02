@@ -40,9 +40,19 @@
                 "currentVersion": "1.4.14"
               }
             }
+          },
+          {
+            "id": "f0e29f9589991e93",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a9f60b3d6871c336",
+  "active": "f0e29f9589991e93",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "week07_헬스케어, AI.md",
