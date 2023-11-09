@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_TEMP/woowa_w4.md",
+                "file": "New_Tech_Seminar/week11_보안관제_인공지능.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_TEMP/woowa_w4.md",
+                "file": "New_Tech_Seminar/week11_보안관제_인공지능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_TEMP/woowa_w4.md",
+                "file": "New_Tech_Seminar/week11_보안관제_인공지능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_TEMP/woowa_w4.md"
+                "file": "New_Tech_Seminar/week11_보안관제_인공지능.md"
               }
             }
           },
@@ -207,10 +207,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a58da97d0a12b4b8",
+  "active": "4206e063d355a27b",
   "lastOpenFiles": [
-    "New_Tech_Seminar/week10_제로트러스트.md",
     "00_TEMP/woowa_w4.md",
+    "New_Tech_Seminar/week11_보안관제_인공지능.md",
+    "New_Tech_Seminar/week10_제로트러스트.md",
     "00_TEMP",
     "README.md",
     "conflict-files-obsidian-git.md",
