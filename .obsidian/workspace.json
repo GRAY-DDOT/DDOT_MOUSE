@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New_Tech_Seminar/week11_보안관제_인공지능.md",
+                "file": "New_Tech_Seminar/week13_RaaS_est_sec.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ecc2dc4c08d4d378",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New_Tech_Seminar/week11_보안관제_인공지능.md",
+                "file": "New_Tech_Seminar/week13_RaaS_est_sec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New_Tech_Seminar/week11_보안관제_인공지능.md",
+                "file": "New_Tech_Seminar/week13_RaaS_est_sec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New_Tech_Seminar/week11_보안관제_인공지능.md"
+                "file": "New_Tech_Seminar/week13_RaaS_est_sec.md"
               }
             }
           },
@@ -209,8 +209,9 @@
   },
   "active": "4206e063d355a27b",
   "lastOpenFiles": [
-    "00_TEMP/woowa_w4.md",
     "New_Tech_Seminar/week11_보안관제_인공지능.md",
+    "New_Tech_Seminar/week13_RaaS_est_sec.md",
+    "00_TEMP/woowa_w4.md",
     "New_Tech_Seminar/week10_제로트러스트.md",
     "00_TEMP",
     "README.md",
